@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllAboutWomen">
         <activity
+            android:name=".ui.women_circle.WomenCircleActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"

@@ -10,4 +10,19 @@
     <string name="menu_home">Home</string>
     <string name="menu_women_circle">Women Circle</string>
     <string name="menu_contraception">Contraception</string>
+    <string name="previousMonthButton"><![CDATA[<-]]></string>
+    <string name="nextMonthButton"><![CDATA[->]]></string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="default_date">Month YYYY</string>
+    <string name="one_number">1</string>
+    <string name="ret_cur_date">Return to \nCurrent Date</string>
+    <string name="cl_dt">Clean Dates</string>
+    <string name="conf">Confirm</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
 </resources>
